@@ -20,12 +20,12 @@ We believe the workshop will be of great interest to:
 - Practitioners interested in benchmarking differentiable environments, software libraries, and deep learning programming practices for dynamical systems and control applications. 
 
 ## List of Speakers
-- <a href="[[https://acc2023.a2c2.org/registration/](https://chrisrackauckas.com/)]" target="_blank">Chris Rackauckas</a> (MIT)
-- <a href="[http://karkus.tilda.ws/]" target="_blank">Peter Karkus</a> (NVIDIA)
+- <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT)
+- <a href="http://karkus.tilda.ws/" target="_blank">Peter Karkus</a> (NVIDIA)
 - Taosha Fan (Meta AI)
 - Bingqing Chen (Bosch Center for AI)
-- <a href="[https://drgona.github.io/]" target="_blank">Jan Drgona</a> (PNNL)
-- <a href="[https://d-biswa.github.io/]" target="_blank">Biswadip Dey</a> (Siemens Technology)
+- <a href="https://drgona.github.io/" target="_blank">Jan Drgona</a> (PNNL)
+- <a href="https://d-biswa.github.io/" target="_blank">Biswadip Dey</a> (Siemens Technology)
 
 ## Organizers
 - Jan Drgona (PNNL)
