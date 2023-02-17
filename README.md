@@ -27,6 +27,9 @@ We believe the workshop will be of great interest to:
 - <a href="http://karkus.tilda.ws/" target="_blank">Peter Karkus</a> (NVIDIA)
 - <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT)
 
+## Detailed Agenda
+- Coming soon...
+
 ## Organizers
 - Wenceslao Shaw Cortez (PNNL)
 - Biswadip Dey (Siemens Technology)
