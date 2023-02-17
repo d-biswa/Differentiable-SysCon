@@ -1,5 +1,7 @@
 # Differentiable Programming for Modeling and Control of Dynamical Systems
-# ACC Workshop
+## Full Day Workshop at the 2023 American Control Conference ([ACC](https://acc2023.a2c2.org/))
+- **Date**: May 30, 2023)
+- **Venue**: Hilton San Diego Bayfront Hotel in San Diego, CA, USA
 
 In recent years there has been an explosion of research on the intersection of machine learning and classical engineering domains. Machine learning is increasingly being used in the development of novel data-driven approaches for modeling and control of dynamical systems, traditionally dominated by physics-based models and scientific computing solvers. On the other hand, engineering and scientific computing principles are changing the machine learning landscape from purely black-box into domain-aware methods by incorporating more structure and prior knowledge into their model architectures and loss functions. 
 
@@ -18,9 +20,9 @@ We believe the workshop will be of great interest to:
 - Practitioners interested in benchmarking differentiable environments, software libraries, and deep learning programming practices for dynamical systems and control applications. 
 
 ## Organizers
-- Jan Drgona (PNNL)
+- [Jan Drgona](https://drgona.github.io/) (PNNL)
 - Soumya Vasisht (PNNL)
 - Wenceslao Shaw Cortez (PNNL)
 - Aaron Tuor (PNNL)
-- Biswadip Dey (Siemens)
+- [Biswadip Dey](https://d-biswa.github.io/) (Siemens)
 - Draguna Vrabie (PNNL)
