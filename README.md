@@ -1,3 +1,5 @@
+# Differentiable Programming for Modeling and Control of Dynamical Systems
+
 ## Full Day Workshop at the 2023 American Control Conference ([ACC](https://acc2023.a2c2.org/))
 - **Date**: May 30, 2023
 - **Venue**: Hilton San Diego Bayfront Hotel in San Diego, CA, USA
@@ -18,9 +20,17 @@ We believe the workshop will be of great interest to:
 - Students exploring the practical applications of differentiable programs for  learning and control.
 - Practitioners interested in benchmarking differentiable environments, software libraries, and deep learning programming practices for dynamical systems and control applications. 
 
+## List of Presenters
+- [Chris Rackauckas](https://chrisrackauckas.com/) (MIT)
+- [Peter Karkus](http://karkus.tilda.ws/) (NVIDIA)
+- [Taosha Fan]() (Meta AI)
+- Bingqing Chen (Bosch Center for AI)
+- [Jan Drgona](https://drgona.github.io/) (PNNL)
+- [Biswadip Dey](https://d-biswa.github.io/) (Siemens Technology)
+
 ## Organizers
 - [Jan Drgona](https://drgona.github.io/) (PNNL)
-- [Biswadip Dey](https://d-biswa.github.io/) (Siemens)
+- [Biswadip Dey](https://d-biswa.github.io/) (Siemens Technology)
 - Soumya Vasisht (PNNL)
 - Wenceslao Shaw Cortez (PNNL)
 - Aaron Tuor (PNNL)
