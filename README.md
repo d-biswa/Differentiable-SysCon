@@ -20,17 +20,17 @@ We believe the workshop will be of great interest to:
 - Practitioners interested in benchmarking differentiable environments, software libraries, and deep learning programming practices for dynamical systems and control applications. 
 
 ## List of Speakers
-- <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT)
-- <a href="http://karkus.tilda.ws/" target="_blank">Peter Karkus</a> (NVIDIA)
-- Taosha Fan (Meta AI)
 - Bingqing Chen (Bosch Center for AI)
-- <a href="https://drgona.github.io/" target="_blank">Jan Drgona</a> (PNNL)
 - <a href="https://d-biswa.github.io/" target="_blank">Biswadip Dey</a> (Siemens Technology)
+- <a href="https://drgona.github.io/" target="_blank">Jan Drgona</a> (PNNL)
+- Taosha Fan (Meta AI)
+- <a href="http://karkus.tilda.ws/" target="_blank">Peter Karkus</a> (NVIDIA)
+- <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT)
 
 ## Organizers
-- Jan Drgona (PNNL)
-- Biswadip Dey (Siemens Technology)
-- Soumya Vasisht (PNNL)
 - Wenceslao Shaw Cortez (PNNL)
+- Biswadip Dey (Siemens Technology)
+- Jan Drgona (PNNL)
 - Aaron Tuor (PNNL)
+- Soumya Vasisht (PNNL)
 - Draguna Vrabie (PNNL)
