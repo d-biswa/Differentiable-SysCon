@@ -1,4 +1,3 @@
-# Differentiable Programming for Modeling and Control of Dynamical Systems
 ## Full Day Workshop at the 2023 American Control Conference ([ACC](https://acc2023.a2c2.org/))
 - **Date**: May 30, 2023
 - **Venue**: Hilton San Diego Bayfront Hotel in San Diego, CA, USA
