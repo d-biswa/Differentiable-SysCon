@@ -21,12 +21,13 @@ We believe the workshop will be of great interest to:
 
 ## List of Speakers
 
-- <a href="https://www.borisivanovic.com/" target="_blank">Boris Ivanovic</a> (NVIDIA)
 - <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT)
+- <a href="https://www.borisivanovic.com/" target="_blank">Boris Ivanovic</a> (NVIDIA)
+- <a href="https://mariozanon.wordpress.com/" target="_blank">Mario Zanon</a> (IMT Lucca)
 - <a href="https://www.inferlab.org/author/bingqing-chen/" target="_blank">Bingqing Chen</a> (Bosch Center for AI)
+- - <a href="https://xinyi.github.io/" target="_blank">Xinyi Chen</a> (Google AI Princeton)
 - <a href="https://d-biswa.github.io/" target="_blank">Biswadip Dey</a> (Siemens Technology)
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
-- <a href="https://xinyi.github.io/" target="_blank">Xinyi Chen</a> (Google AI Princeton)
 
 ## Detailed Agenda
 - Coming soon...
