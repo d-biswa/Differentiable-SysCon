@@ -19,23 +19,54 @@ We believe the workshop will be of great interest to:
 - Students exploring the practical applications of differentiable programs for  learning and control.
 - Practitioners interested in benchmarking differentiable environments, software libraries, and deep learning programming practices for dynamical systems and control applications. 
 
-## List of Speakers
+
+## Schedule
+
+08:30 am - 09:00 am	 -	**Draguna Vrabie** (PNNL): Opening remarks and overview of differentiable programming 
+
+9:00 am - 9:30 am	 -   **Boris Ivanovic** (NVIDIA): Differentiable robotics
+
+09:30 am - 10:00 am	  -  **Biswadip Dey** (Siemens Technology): Learning Hamiltonian dynamics with control
+
+10:00 am - 10:30 am	  -  Coffee break 
+
+10:30 am - 11:00 am	  -  **Mario Zanon** (IMT Lucca): Safe reinforcement learning using robust MPC
+
+11:00 am - 11:30 am	  -  **Bingqing Chen** (Bosch Center for AI): Towards safe and sample-efficient autonomous energy systems via differentiable programming
+
+11:30 pm - 12:00 pm	  -  **Chris Rackauckas** (MIT): TBD 
+
+12:00 pm - 1:30 pm	  -  Lunch Break
+
+1:30 pm - 2:30 pm	 -   **Chris Rackauckas** (MIT):  Code  tutorial 1: Julia 
+
+2:30 pm - 2:45 pm    -   Coffee break 
+
+2:45 pm - 3:45 pm	 -   **Aaron Tuor** (PNNL): Code tutorial 2: PyTorch
+
+3:45 pm - 4:00 pm    -   Coffee break 
+
+4:00 pm - 5:00 pm	 -   **Jan Drgona** (PNNL): Code tutorial 3: PyTorch
+
+
+## Speakers
 
 - <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT)
 - <a href="https://www.borisivanovic.com/" target="_blank">Boris Ivanovic</a> (NVIDIA)
 - <a href="https://mariozanon.wordpress.com/" target="_blank">Mario Zanon</a> (IMT Lucca)
 - <a href="https://www.inferlab.org/author/bingqing-chen/" target="_blank">Bingqing Chen</a> (Bosch Center for AI)
-- <a href="https://xinyi.github.io/" target="_blank">Xinyi Chen</a> (Google AI Princeton)
 - <a href="https://d-biswa.github.io/" target="_blank">Biswadip Dey</a> (Siemens Technology)
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
+- <a href="https://www.pnnl.gov/people/aaron-tuor" target="_blank">Aaron Tuor</a> (PNNL)
+- <a href="https://www.pnnl.gov/people/draguna-vrabie-phd" target="_blank">Draguna Vrabie</a> (PNNL)
 
-## Detailed Agenda
-- Coming soon...
+
 
 ## Organizers
-- Wenceslao Shaw Cortez (PNNL)
-- Biswadip Dey (Siemens Technology)
-- Jan Drgona (PNNL)
-- Aaron Tuor (PNNL)
-- Soumya Vasisht (PNNL)
-- Draguna Vrabie (PNNL)
+- <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
+- <a href="https://www.pnnl.gov/people/aaron-tuor" target="_blank">Aaron Tuor</a> (PNNL)
+- <a href="https://d-biswa.github.io/" target="_blank">Biswadip Dey</a> (Siemens Technology)
+- <a href="https://shawcortez.wordpress.com/" target="_blank">Wenceslao Shaw Cortez </a> (PNNL)
+- <a href="https://www.pnnl.gov/people/soumya-vasisht" target="_blank">Soumya Vasisht  </a> (PNNL)
+- <a href="https://www.pnnl.gov/people/draguna-vrabie-phd" target="_blank">Draguna Vrabie</a> (PNNL)
+
