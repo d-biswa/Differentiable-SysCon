@@ -34,19 +34,15 @@ We believe the workshop will be of great interest to:
 
 11:00 am - 11:30 am	  -  **Bingqing Chen** (Bosch Center for AI): Towards safe and sample-efficient autonomous energy systems via differentiable programming
 
-11:30 pm - 12:00 pm	  -  **Chris Rackauckas** (MIT): Differentiable programming in Julia 
+11:30 pm - 1:00 pm	  -   Lunch Break
 
-12:00 pm - 1:30 pm	  -  Lunch Break
+1:00 pm - 2:00 pm	 -   **Chris Rackauckas** (MIT):  Code  tutorial 1: Julia
 
-1:30 pm - 2:30 pm	 -   **Chris Rackauckas** (MIT):  Code  tutorial 1: Julia 
+2:00 pm - 3:00 pm	 -   **Aaron Tuor** (PNNL): Code tutorial 2: PyTorch
 
-2:30 pm - 2:45 pm    -   Coffee break 
+3:00 pm - 3:30 pm    -   Coffee break 
 
-2:45 pm - 3:45 pm	 -   **Aaron Tuor** (PNNL): Code tutorial 2: PyTorch
-
-3:45 pm - 4:00 pm    -   Coffee break 
-
-4:00 pm - 5:00 pm	 -   **Jan Drgona** (PNNL): Code tutorial 3: PyTorch
+3:30 pm - 5:00 pm	 -   **Jan Drgona** (PNNL): Code tutorial 3: PyTorch
 
 
 ## Speakers
