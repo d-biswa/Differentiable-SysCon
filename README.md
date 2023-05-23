@@ -30,7 +30,7 @@ We believe the workshop will be of great interest to:
 
 10:00 am - 10:30 am	  -  Coffee break 
 
-10:30 am - 11:00 am	  -  **Mario Zanon** (IMT Lucca): Safe reinforcement learning using robust MPC
+10:30 am - 11:00 am	  -  **Mario Zanon** (IMT Lucca): Differentiating MPC with applications in Reinforcement Learning
 
 11:00 am - 11:30 am	  -  **Bingqing Chen** (Bosch Center for AI): Towards safe and sample-efficient autonomous energy systems via differentiable programming
 
