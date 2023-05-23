@@ -22,7 +22,7 @@ We believe the workshop will be of great interest to:
 
 ## Schedule
 
-08:30 am - 09:00 am	 -	**Draguna Vrabie** (PNNL): Opening remarks and overview of differentiable programming 
+08:30 am - 09:00 am	 -	**Jan Drgona** (PNNL): Opening remarks and overview of differentiable programming 
 
 9:00 am - 9:30 am	 -   **Boris Ivanovic** (NVIDIA): Differentiable robotics
 
@@ -34,7 +34,7 @@ We believe the workshop will be of great interest to:
 
 11:00 am - 11:30 am	  -  **Bingqing Chen** (Bosch Center for AI): Towards safe and sample-efficient autonomous energy systems via differentiable programming
 
-11:30 pm - 12:00 pm	  -  **Chris Rackauckas** (MIT): TBD 
+11:30 pm - 12:00 pm	  -  **Chris Rackauckas** (MIT): Differentiable programming in Julia 
 
 12:00 pm - 1:30 pm	  -  Lunch Break
 
