@@ -1,7 +1,7 @@
 # ACC Workshop on ***Differentiable Programming for Modeling and Control of Dynamical Systems***
 - **Date**: May 30, 2023
 - **Venue**: Hilton San Diego Bayfront Hotel in San Diego, CA, USA
-- **Room**:  W06: Aqua 313
+- **Room**: Aqua 313
 - **Register** <a href="https://acc2023.a2c2.org/registration/" target="_blank">***here***</a>
 
 In recent years there has been an explosion of research on the intersection of machine learning and classical engineering domains. For example, machine learning is increasingly being used to develop novel data-driven approaches for the modeling and control of dynamical systems, traditionally dominated by physics-based models and scientific computing solvers. On the other hand, engineering and scientific computing principles are changing the machine learning landscape from purely black-box into domain-aware methods by incorporating more structure and prior knowledge into their model architectures and loss functions. 
