@@ -23,7 +23,7 @@ We believe the workshop will be of great interest to:
 
 ## Schedule
 
-08:30 am - 09:00 am	 -	**Sonja Glavaski-Radovanovic** (PNNL): Opening remarks and overview of differentiable programming 
+08:30 am - 09:00 am	 -	**Sonja Glavaski** (PNNL): Opening remarks and overview of differentiable programming 
 
 9:00 am - 9:30 am	 -   **Boris Ivanovic** (NVIDIA): Differentiable robotics
 
