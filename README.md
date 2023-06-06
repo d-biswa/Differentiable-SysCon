@@ -94,3 +94,9 @@ Colab examples:
 - <a href="https://www.pnnl.gov/people/soumya-vasisht" target="_blank">Soumya Vasisht  </a> (PNNL)
 - <a href="https://www.pnnl.gov/people/draguna-vrabie-phd" target="_blank">Draguna Vrabie</a> (PNNL)
 
+## Workshop photos
+![Bingquing](./photos/Bingquing.jpg)
+![Boris](./photos/Boris.jpg)
+![Chris](./photos/Chris.jpg)
+![Felix](./photos/Felix.jpg)
+![Mario](./photos/Mario.jpg)
