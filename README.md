@@ -58,6 +58,33 @@ We believe the workshop will be of great interest to:
 - <a href="https://www.pnnl.gov/people/draguna-vrabie-phd" target="_blank">Draguna Vrabie</a> (PNNL)
 
 
+## Workshop slides
+<a href="./slides/Glavaski_ACC_workshop_intro2023.pdf" target="_blank">Slides for Sonja Glavaski's talk.</a>
+<a href="./slides/bingqing_acc_talk.pdf" target="_blank">Slides for Bingquing Chen's talk.</a>  
+<a href="./slides/05_30__ACCw_Learning4HMLTN.pdf" target="_blank">Slides for Biswadip Dey's talk.</a>  
+<a href="./slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
+
+## Open-source code 
+
+**[NeuroMANCER](https://pnnl.github.io/neuromancer/)**: Pytorch-based framework for solving parametric constrained optimization problems, 
+physics-informed system identification, and parametric model predictive control.  
+
+Colab examples:
++ Learning to solve parametric constrained optimization problems with differentiable programming
+<a target="_blank" href="https://colab.research.google.com/github/pnnl/neuromancer/blob/master/examples/parametric_programming/Himmelblau_interactive.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
++ Model-based differentiable predictive control (DPC)
+<a target="_blank" href="https://colab.research.google.com/github/pnnl/neuromancer/blob/master/examples/tutorials/double_integrator.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
++ Data-driven differentiable predictive control (DPC)
+<a target="_blank" href="https://colab.research.google.com/github/pnnl/neuromancer/blob/master/examples/tutorials/control.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 
 ## Organizers
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
