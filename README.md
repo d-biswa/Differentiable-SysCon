@@ -49,7 +49,7 @@ We believe the workshop will be of great interest to:
 ## Speakers
 
 - <a href="https://chrisrackauckas.com/" target="_blank">Chris Rackauckas</a> (MIT, JuliaHub) 
-- <a href="https://www.linkedin.com/in/fredrik-bagge-carlson-00161872/" target="_blank">Chris Rackauckas</a> (JuliaHub)
+- <a href="https://www.linkedin.com/in/fredrik-bagge-carlson-00161872/" target="_blank">Fredrik Bagge Carlson</a> (JuliaHub)
 - <a href="https://www.borisivanovic.com/" target="_blank">Boris Ivanovic</a> (NVIDIA)
 - <a href="https://mariozanon.wordpress.com/" target="_blank">Mario Zanon</a> (IMT Lucca)
 - <a href="https://www.inferlab.org/author/bingqing-chen/" target="_blank">Bingqing Chen</a> (Bosch Center for AI)
