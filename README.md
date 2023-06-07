@@ -88,6 +88,12 @@ Colab examples:
 </a>
 
 
+**JuliaHub**: 
+[differentiable control design](https://juliahub.com/ui/Notebooks/fredrik-carlson2/differentiable_control_design/basic_autodiff.jl) 
+and [control systems demo](https://juliahub.com/ui/Notebooks/fredrik-carlson2/controlsystems/analyse_robustness.jl) in Julia.
+
+
+
 ## Organizers
 - <a href="https://www.linkedin.com/in/drgona/" target="_blank">Jan Drgona</a> (PNNL)
 - <a href="https://www.pnnl.gov/people/aaron-tuor" target="_blank">Aaron Tuor</a> (PNNL)
