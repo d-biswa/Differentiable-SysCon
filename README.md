@@ -62,9 +62,12 @@ We believe the workshop will be of great interest to:
 ## Workshop slides
 <a href="./slides/Glavaski_ACC_workshop_intro2023.pdf" target="_blank">Slides for Sonja Glavaski's talk.</a>  
 <a href="./slides/bingqing_acc_talk.pdf" target="_blank">Slides for Bingquing Chen's talk.</a>  
+<a href="./slides/ACC differentiable robotics, 2023 June.pdf" target="_blank">Slides for Boris Ivanovic's talk.</a>
 <a href="./slides/diff_MPC_RL.pdf" target="_blank">Slides for Mario Zanon's talk.</a>  
 <a href="./slides/05_30__ACCw_Learning4HMLTN.pdf" target="_blank">Slides for Biswadip Dey's talk.</a>  
 <a href="./slides/Drgona_Diff_prog_for_control_ACC_2023.pdf" target="_blank">Slides for Jan Drgona's talk.</a>  
+
+
 
 ## Open-source code 
 
